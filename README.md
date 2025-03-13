@@ -21,4 +21,4 @@ Gateway Technical College Associate of Applied Science, IT Cybersecurity
 
 # Certifications
 Comptia Securtiy+, ITF+, Linux Adminstration
-
+<img src="certificates/securityplus_badge.png" alt="Security+ Certification Badge">
