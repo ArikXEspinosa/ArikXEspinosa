@@ -1,16 +1,24 @@
-## Test 👋
+## About Me
+# Arik X. Espinosa
+IT SPECIALIST | CYBERSECURITY EXPERT | U.S. MILTARY VETERAN
 
-<!--
-**ArikXEspinosa/ArikXEspinosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trained in systems management and security. Hands-on experience includes workstation installation, configuration, repair, troubleshooting, customer service, risk management, system security, and the configuration of computer systems, all backed by extensive training. Skilled in managing risk to protect mission-critical assets, property, and equipment while consistently exceeding senior leadership expectations. Committed to maintaining high levels of accuracy and efficiency while achieving project implementation and IT infrastructure goals. Analytical and intuitive with in-depth knowledge of networking security, technologies, architectures, and platforms. Holds an Active Secret Security Clearance.
 
-Here are some ideas to get you started:
+# Skills
+•	Information Assurance
+•	Trouble Shooting
+•	Network & Systems Security
+•	Police Compliance
+•	Data Analysis
+•	Network Administration
+•	Software Development
+•	Technical Proficiency
+•	IT Risk Management 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Education
+UW-Parkside Bachelor of Science Degree (In-Pursuit), Information Systems Management
+Gateway Technical College Associate of Applied Science, IT Cybersecurity 
+
+# Certifications
+Comptia Securtiy+, ITF+, Linux Adminstration
+
