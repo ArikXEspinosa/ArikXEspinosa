@@ -1,24 +1,48 @@
-## About Me
-# Arik X. Espinosa
-IT SPECIALIST | CYBERSECURITY EXPERT | U.S. MILTARY VETERAN
+# Hello, I'm Arik X. Espinosa  
+<a href="https://www.linkedin.com/in/arik-espinosa-7b242a172" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
 
-Trained in systems management and security. Hands-on experience includes workstation installation, configuration, repair, troubleshooting, customer service, risk management, system security, and the configuration of computer systems, all backed by extensive training. Skilled in managing risk to protect mission-critical assets, property, and equipment while consistently exceeding senior leadership expectations. Committed to maintaining high levels of accuracy and efficiency while achieving project implementation and IT infrastructure goals. Analytical and intuitive with in-depth knowledge of networking security, technologies, architectures, and platforms. Holds an Active Secret Security Clearance.
+## About Me  
+I am an IT Specialist and Cybersecurity Enthusiast with a strong background in system administration, network security, and risk management. As a U.S. Military Veteran, I bring a disciplined approach to problem-solving and a keen eye for securing mission-critical assets.  
 
-# Skills
-•	Information Assurance
-•	Trouble Shooting
-•	Network & Systems Security
-•	Police Compliance
-•	Data Analysis
-•	Network Administration
-•	Software Development
-•	Technical Proficiency
-•	IT Risk Management 
+## Objective  
+Cybersecurity Analyst with expertise in hardware, networks, and network security. Extensive hands-on experience in workstation installation, configuration, repair, troubleshooting, and system security. Skilled in risk management and security automation, with a strong ability to safeguard mission-critical assets and equipment while exceeding leadership expectations. Focused on maintaining accuracy and efficiency while achieving IT infrastructure and project goals. Analytical and intuitive, with in-depth knowledge of network security, technologies, and platforms. Currently holds an Active Secret Security Clearance.
 
-# Education
-UW-Parkside Bachelor of Science Degree (In-Pursuit), Information Systems Management
-Gateway Technical College Associate of Applied Science, IT Cybersecurity 
+## Skills  
 
-# Certifications
-Comptia Securtiy+, ITF+, Linux Adminstration
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Web Redesign         | <a href="https://github.com/yourusername/detection-lab">SIEM Log Analysis Lab</a> |
+| Network Management         | <a href="https://github.com/yourusername/detection-lab">SIEM Log Analysis Lab</a> |
+
+## Tools  
+
+### Network  
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+
+</div>
+
+
+### SIEM  
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+## Certifications  
+
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ITF%2B-00A9E0?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="ITF+ Certification" />
+  <img src="https://img.shields.io/badge/-Linux%20Administration-008000?&style=for-the-badge&logo=Linux&logoColor=white" alt="Linux Administration Certification" /
+</div>
+
+## Projects  
+🔹 **[Detection Lab](https://github.com/yourusername/detection-lab)** – A hands-on lab environment for testing security tools and incident response techniques.  
+🔹 **[SOC Automation Project](https://github.com/yourusername/soc-automation)** – Implemented automation workflows for incident response using SOAR and TheHive.  
+
+---
+
 
