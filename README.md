@@ -40,11 +40,11 @@ Cybersecurity Analyst with expertise in hardware, networks, and network security
   <img src="https://img.shields.io/badge/-Linux%20Administration-008000?&style=for-the-badge&logo=Linux&logoColor=white" alt="Linux Administration Certification" /
 </div>
 
-## Projects
-| [Web Redesign Project]     |(https://github.com/ArikXEspinosa/Web-Redesign-Project)          |
-| Honeypot Development       | [Honeypot Project](https://github.com/ArikXEspinosa/ArikXEspinosa-HoneyPot-Project)    |
-| Network Cable Management   | [Cable Management Project](https://github.com/ArikXEspinosa/Network-Cable-Management-Project) |
-
+| **Past Projects**             | **Repository Link**                                                                                   |
+|-----------------------------|--------------------------------------------------------------------------------------------------------|
+| Web Redesign Project         | [View on GitHub](https://github.com/ArikXEspinosa/Web-Redesign-Project)                              |
+| Honeypot Script              | [View on GitHub](https://github.com/ArikXEspinosa/ArikXEspinosa-HoneyPot-Project)                    |
+| Network Cable Management     | [View on GitHub](https://github.com/ArikXEspinosa/Network-Cable-Management-Project)                  |
 ---
 
 
