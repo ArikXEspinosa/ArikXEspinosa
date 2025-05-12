@@ -18,7 +18,7 @@ Cybersecurity Analyst with expertise in hardware, networks, and network security
 | Network Cable Management   | [Cable Management Project](https://github.com/ArikXEspinosa/Network-Cable-Management-Project) |
 
 ## Tools  
--Programming Script Langauge Python/Powershell/Linux/C#/VisualBasic
+-Programming Script Language Python/Powershell/Linux/C#/VisualBasic
 
 -Honeypot Deployment
 
