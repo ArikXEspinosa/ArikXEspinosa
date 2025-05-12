@@ -18,6 +18,19 @@ Cybersecurity Analyst with expertise in hardware, networks, and network security
 | Network Cable Management   | [Cable Management Project](https://github.com/ArikXEspinosa/Network-Cable-Management-Project) |
 
 ## Tools  
+-Python Scripting
+
+-Honeypot Deployment
+
+-Firewall & Port Management (Linux)
+
+-Brute Force Attack Simulation (Hydra)
+
+-Network Cable Management
+
+-Web Redesign & Documentation
+
+-System Troubleshooting
 
 ### Network  
 <div>
