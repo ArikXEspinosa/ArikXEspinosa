@@ -14,7 +14,8 @@ Cybersecurity Analyst with expertise in hardware, networks, and network security
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Web Redesign    | [Web Redesign Project](https://github.com/ArikXEspinosa/Web-Redesign-Project) |
-| Network Management         | <a href="https://github.com/yourusername/detection-lab">SIEM Log Analysis Lab</a> |
+| Honeypot Development       | [Honeypot Project](https://github.com/ArikXEspinosa/ArikXEspinosa-HoneyPot-Project)    |
+| Network Cable Management   | [Cable Management Project](https://github.com/ArikXEspinosa/Network-Cable-Management-Project) |
 
 ## Tools  
 
