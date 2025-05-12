@@ -13,7 +13,7 @@ Cybersecurity Analyst with expertise in hardware, networks, and network security
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Web Redesign         | <a href="https://github.com/yourusername/detection-lab">SIEM Log Analysis Lab</a> |
+| Web Redesign    | [Web Redesign Project](https://github.com/ArikXEspinosa/Web-Redesign-Project) |
 | Network Management         | <a href="https://github.com/yourusername/detection-lab">SIEM Log Analysis Lab</a> |
 
 ## Tools  
