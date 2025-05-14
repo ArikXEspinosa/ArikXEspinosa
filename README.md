@@ -14,7 +14,7 @@ Cybersecurity Analyst with expertise in hardware, networks, and network security
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Web Redesign    | [Web Redesign Project](https://github.com/ArikXEspinosa/Web-Redesign-Project) |
-| Honeypot Script      | [Honeypot Project](https://github.com/ArikXEspinosa/ArikXEspinosa-HoneyPot-Project)    |
+| Honeypot Deployment     | [Honeypot Project](https://github.com/ArikXEspinosa/ArikXEspinosa-HoneyPot-Project)    |
 | Network Cable Management   | [Cable Management Project](https://github.com/ArikXEspinosa/Network-Cable-Management-Project) |
 
 ## Tools  
