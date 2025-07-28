@@ -16,7 +16,7 @@ Cybersecurity Analyst with expertise in hardware, networks, and network security
 | Web Redesign    | [Web Redesign Project](https://github.com/ArikXEspinosa/Web-Redesign-Project) |
 | Honeypot Deployment     | [Honeypot Project](https://github.com/ArikXEspinosa/ArikXEspinosa-HoneyPot-Project)    |
 | Network Cable Management   | [Cable Management Project](https://github.com/ArikXEspinosa/Network-Cable-Management-Project) |
-| Networking Projects        | 
+| Networking Projects        | [Networking Projects](https://github.com/ArikXEspinosa/Networking-Projects/blob/main/README.md) |
 
 ## Tools  
 -Programming Script Language Python/Powershell/Linux/C#/VisualBasic
