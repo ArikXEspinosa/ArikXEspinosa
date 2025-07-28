@@ -19,9 +19,9 @@ Dedicated and results-driven IT professional with hands-on experience in hardwar
 | Network Simlaution & Setup       | [Networking Projects](https://github.com/ArikXEspinosa/Networking-Projects/blob/main/README.md) |
 
 ## Tools & Technologies 
--Programming & Scripting Language Python/Powershell/Linux/C#/VisualBasic
+- Programming & Scripting Language Python/Powershell/Linux/C#/VisualBasic
 
--Networking (Cisco Packet Tracer & Real-World)
+- Networking (Cisco Packet Tracer & Real-World)
 Router & Switch Configuration (static routing, dynamic routing protocols)
 
 VLAN Design and Implementation
@@ -44,14 +44,14 @@ Brute Force Attack Simulation (Hydra
 
 Security Best Practices for Network Hardening
 
--IT Support & Infrastructure
+- IT Support & Infrastructure
 System Troubleshooting (hardware & software)
 
 Physical Network Cable Management and Documentation
 
 Web Redesign & Technical Documentation
 
--Cybersecurity Awareness Training
+- Cybersecurity Awareness Training
 Created and delivered training slides covering key cybersecurity topics:
 
 Phishing Awareness and Prevention
