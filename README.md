@@ -34,6 +34,7 @@ Router & Switch Configuration (static routing, dynamic routing protocols)
 
 Network Troubleshooting and Packet Analysis (Wireshark basics)
 
+
 - Securtiy Tools & Concepts
 
 -Firewall & Port Management (Linux)
@@ -44,12 +45,14 @@ Network Troubleshooting and Packet Analysis (Wireshark basics)
 
 -Security Best Practices for Network Hardening
 
+
 - Security Labs & Journals
 Documented HackThisSite challenges and solutions to build practical cybersecurity skills
 
 Includes step-by-step walkthroughs, lessons learned, and screenshots
 
 Topics covered: Web hacking, basic penetration testing, cryptography, and more
+
 
 - Cybersecurity Awareness Training
 Created and delivered training slides covering key cybersecurity topics:
@@ -65,6 +68,7 @@ Created and delivered training slides covering key cybersecurity topics:
 -Network Security Basics
 
 -Incident Reporting Procedures
+
 
 - IT Support & Infrastructure
 -System Troubleshooting (hardware & software)
