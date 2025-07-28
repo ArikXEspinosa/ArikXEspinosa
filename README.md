@@ -17,6 +17,9 @@ Dedicated and results-driven IT professional with hands-on experience in hardwar
 | Honeypot & Security    | [Honeypot Project](https://github.com/ArikXEspinosa/ArikXEspinosa-HoneyPot-Project)    |
 | Physical Network Setup   | [Cable Management Project](https://github.com/ArikXEspinosa/Network-Cable-Management-Project) |
 | Network Simlaution & Setup       | [Networking Projects](https://github.com/ArikXEspinosa/Networking-Projects/blob/main/README.md) |
+| Cybersercuity Awareness Slides      | [Networking Projects](https://github.com/ArikXEspinosa/Networking-Projects/blob/main/README.md) |
+| Security Labs & Journals    | [Networking Projects](https://github.com/ArikXEspinosa/Networking-Projects/blob/main/README.md) |
+
 
 ## Tools & Technologies 
 - Programming & Scripting Language Python/Powershell/Linux/C#/VisualBasic
