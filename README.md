@@ -40,16 +40,16 @@ Network Troubleshooting and Packet Analysis (Wireshark basics)
 
 -Honeypot Deployment & Port Scanning
 
--Brute Force Attack Simulation (Hydra
+-Brute Force Attack Simulation (Hydra)
 
 -Security Best Practices for Network Hardening
 
-- IT Support & Infrastructure
--System Troubleshooting (hardware & software)
+- Security Labs & Journals
+Documented HackThisSite challenges and solutions to build practical cybersecurity skills
 
--Physical Network Cable Management and Documentation
+Includes step-by-step walkthroughs, lessons learned, and screenshots
 
--Web Redesign & Technical Documentation
+Topics covered: Web hacking, basic penetration testing, cryptography, and more
 
 - Cybersecurity Awareness Training
 Created and delivered training slides covering key cybersecurity topics:
@@ -65,6 +65,13 @@ Created and delivered training slides covering key cybersecurity topics:
 -Network Security Basics
 
 -Incident Reporting Procedures
+
+- IT Support & Infrastructure
+-System Troubleshooting (hardware & software)
+
+-Physical Network Cable Management and Documentation
+
+-Web Redesign & Technical Documentation
 
 ### Network  
 <div>
