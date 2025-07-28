@@ -24,47 +24,47 @@ Dedicated and results-driven IT professional with hands-on experience in hardwar
 - Networking (Cisco Packet Tracer & Real-World)
 Router & Switch Configuration (static routing, dynamic routing protocols)
 
-VLAN Design and Implementation
+-VLAN Design and Implementation
 
-Router-on-a-Stick (Inter-VLAN Routing)
+-Router-on-a-Stick (Inter-VLAN Routing)
 
-Network Address Translation (NAT)
+-Network Address Translation (NAT)
 
-DHCP and DNS Configuration
+-DHCP and DNS Configuration
 
 Network Troubleshooting and Packet Analysis (Wireshark basics)
 
 - Securtiy Tools & Concepts
 
-Firewall & Port Management (Linux)
+-Firewall & Port Management (Linux)
 
-Honeypot Deployment & Port Scanning
+-Honeypot Deployment & Port Scanning
 
-Brute Force Attack Simulation (Hydra
+-Brute Force Attack Simulation (Hydra
 
-Security Best Practices for Network Hardening
+-Security Best Practices for Network Hardening
 
 - IT Support & Infrastructure
-System Troubleshooting (hardware & software)
+-System Troubleshooting (hardware & software)
 
-Physical Network Cable Management and Documentation
+-Physical Network Cable Management and Documentation
 
-Web Redesign & Technical Documentation
+-Web Redesign & Technical Documentation
 
 - Cybersecurity Awareness Training
 Created and delivered training slides covering key cybersecurity topics:
 
-Phishing Awareness and Prevention
+-Phishing Awareness and Prevention
 
-Password Management Best Practices
+-Password Management Best Practices
 
-Social Engineering Tactics
+-Social Engineering Tactics
 
-Safe Web Browsing Habits
+-Safe Web Browsing Habits
 
-Network Security Basics
+-Network Security Basics
 
-Incident Reporting Procedures
+-Incident Reporting Procedures
 
 ### Network  
 <div>
