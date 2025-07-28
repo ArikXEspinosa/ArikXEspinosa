@@ -100,6 +100,8 @@ Created and delivered training slides covering key cybersecurity topics:
     <img src="https://img.shields.io/badge/-ITF%2B-00A9E0?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="ITF+ Certification" />
   <img src="https://img.shields.io/badge/-Linux%20Administration-008000?&style=for-the-badge&logo=Linux&logoColor=white" alt="Linux Administration Certification" /
 </div>
+  <img src="https://img.shields.io/badge/-Google_Workspace-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace Learning Path" />
+</div>
 
 | **Past Projects**             | **Repository Link**                                                                                   |
 |-----------------------------|--------------------------------------------------------------------------------------------------------|
