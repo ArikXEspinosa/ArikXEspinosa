@@ -107,7 +107,7 @@ Created and delivered training slides covering key cybersecurity topics:
 | Honeypot & Security    | [Honeypot Project](https://github.com/ArikXEspinosa/ArikXEspinosa-HoneyPot-Project)    |
 | Physical Network Setup   | [Cable Management Project](https://github.com/ArikXEspinosa/Network-Cable-Management-Project) |
 | Network Simlaution & Setup       | [Networking Projects](https://github.com/ArikXEspinosa/Networking-Projects/blob/main/README.md) |
-| Cybersercuity Awareness Training Slides      | [CyberSercurity Awareness Training Slides](https://github.com/ArikXEspinosa/Cybersecurity-Training-Slides/blob/main/README.md) |
+| Cybersercuity Awareness Training Slides      | [Cybersercurity Awareness Training Slides](https://github.com/ArikXEspinosa/Cybersecurity-Training-Slides/blob/main/README.md) |
 | Security Labs & Journals    | [Security Labs & Journals ](https://github.com/ArikXEspinosa/Security-Labs-Journals/blob/main/README.md) |
 
 
