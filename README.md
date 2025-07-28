@@ -4,34 +4,67 @@
 </a>
 
 ## About Me  
-I am an IT Specialist and Cybersecurity Enthusiast with a strong background in system administration, network security, and risk management. As a U.S. Military Veteran, I bring a disciplined approach to problem-solving and a keen eye for securing mission-critical assets.  
+I am a skilled IT professional with hands-on experience in computer repair, network setup, and cybersecurity. As a U.S. Army Veteran, I bring a strong work ethic, problem-solving skills, and the ability to stay calm under pressure. I enjoy learning new technology and helping keep systems safe and running smoothly.
 
 ## Objective  
-Cybersecurity Analyst with expertise in hardware, networks, and network security. Extensive hands-on experience in workstation installation, configuration, repair, troubleshooting, and system security. Skilled in risk management and security automation, with a strong ability to safeguard mission-critical assets and equipment while exceeding leadership expectations. Focused on maintaining accuracy and efficiency while achieving IT infrastructure and project goals. Analytical and intuitive, with in-depth knowledge of network security, technologies, and platforms. Currently holds an Active Secret Security Clearance.
+Dedicated and results-driven IT professional with hands-on experience in hardware, networking, and system support. Skilled in setting up, maintaining, and securing technology systems to keep operations running smoothly. Strong problem-solver with a focus on efficiency, reliability, and meeting project goals. Able to adapt quickly, work well in teams, and communicate technical ideas clearly
 
 ## Skills  
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Web Redesign    | [Web Redesign Project](https://github.com/ArikXEspinosa/Web-Redesign-Project) |
-| Honeypot Deployment     | [Honeypot Project](https://github.com/ArikXEspinosa/ArikXEspinosa-HoneyPot-Project)    |
-| Network Cable Management   | [Cable Management Project](https://github.com/ArikXEspinosa/Network-Cable-Management-Project) |
-| Practical Network Experience        | [Networking Projects](https://github.com/ArikXEspinosa/Networking-Projects/blob/main/README.md) |
+| Web Infrastucture    | [Web Redesign Project](https://github.com/ArikXEspinosa/Web-Redesign-Project) |
+| Honeypot & Security    | [Honeypot Project](https://github.com/ArikXEspinosa/ArikXEspinosa-HoneyPot-Project)    |
+| Physical Network Setup   | [Cable Management Project](https://github.com/ArikXEspinosa/Network-Cable-Management-Project) |
+| Network Simlaution & Setup       | [Networking Projects](https://github.com/ArikXEspinosa/Networking-Projects/blob/main/README.md) |
 
-## Tools  
--Programming Script Language Python/Powershell/Linux/C#/VisualBasic
+## Tools & Technologies 
+-Programming & Scripting Language Python/Powershell/Linux/C#/VisualBasic
 
--Honeypot Deployment
+-Networking (Cisco Packet Tracer & Real-World)
+Router & Switch Configuration (static routing, dynamic routing protocols)
 
--Firewall & Port Management (Linux)
+VLAN Design and Implementation
 
--Brute Force Attack Simulation (Hydra)
+Router-on-a-Stick (Inter-VLAN Routing)
 
--Network Cable Management
+Network Address Translation (NAT)
 
--Web Redesign & Documentation
+DHCP and DNS Configuration
 
--System Troubleshooting
+Network Troubleshooting and Packet Analysis (Wireshark basics)
+
+- Securtiy Tools & Concepts
+
+Firewall & Port Management (Linux)
+
+Honeypot Deployment & Port Scanning
+
+Brute Force Attack Simulation (Hydra
+
+Security Best Practices for Network Hardening
+
+-IT Support & Infrastructure
+System Troubleshooting (hardware & software)
+
+Physical Network Cable Management and Documentation
+
+Web Redesign & Technical Documentation
+
+-Cybersecurity Awareness Training
+Created and delivered training slides covering key cybersecurity topics:
+
+Phishing Awareness and Prevention
+
+Password Management Best Practices
+
+Social Engineering Tactics
+
+Safe Web Browsing Habits
+
+Network Security Basics
+
+Incident Reporting Procedures
 
 ### Network  
 <div>
@@ -56,9 +89,10 @@ Cybersecurity Analyst with expertise in hardware, networks, and network security
 
 | **Past Projects**             | **Repository Link**                                                                                   |
 |-----------------------------|--------------------------------------------------------------------------------------------------------|
-| Web Redesign Project         | [View on GitHub](https://github.com/ArikXEspinosa/Web-Redesign-Project)                              |
-| Honeypot Script              | [View on GitHub](https://github.com/ArikXEspinosa/ArikXEspinosa-HoneyPot-Project)                    |
-| Network Cable Management     | [View on GitHub](https://github.com/ArikXEspinosa/Network-Cable-Management-Project)                  |
----
+| Web Infrastucture    | [Web Redesign Project](https://github.com/ArikXEspinosa/Web-Redesign-Project) |
+| Honeypot & Security    | [Honeypot Project](https://github.com/ArikXEspinosa/ArikXEspinosa-HoneyPot-Project)    |
+| Physical Network Setup   | [Cable Management Project](https://github.com/ArikXEspinosa/Network-Cable-Management-Project) |
+| Network Simlaution & Setup       | [Networking Projects](https://github.com/ArikXEspinosa/Networking-Projects/blob/main/README.md) |
+
 
 
