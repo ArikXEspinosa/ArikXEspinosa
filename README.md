@@ -18,7 +18,7 @@ Dedicated and results-driven IT professional with hands-on experience in hardwar
 | Physical Network Setup   | [Cable Management Project](https://github.com/ArikXEspinosa/Network-Cable-Management-Project) |
 | Network Simlaution & Setup       | [Networking Projects](https://github.com/ArikXEspinosa/Networking-Projects/blob/main/README.md) |
 | Cybersercuity Awareness Training Slides      | [CyberSercurity Awareness Training Slides](https://github.com/ArikXEspinosa/Cybersecurity-Training-Slides/blob/main/README.md) |
-| Security Labs & Journals    | [Networking Projects](https://github.com/ArikXEspinosa/Networking-Projects/blob/main/README.md) |
+| Security Labs & Journals    | [[Security Labs & Journals ](https://github.com/ArikXEspinosa/Networking-Projects/blob/main/README.md)](https://github.com/ArikXEspinosa/Security-Labs-Journals/blob/main/README.md) |
 
 
 ## Tools & Technologies 
