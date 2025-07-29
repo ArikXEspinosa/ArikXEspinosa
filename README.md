@@ -86,7 +86,7 @@ Created and delivered training slides covering key cybersecurity topics:
     <li><strong>Palo Alto Networks:</strong> Hands-on labs and virtual firewall configuration through academic coursework.</li>
     <li><strong>Extreme Networks:</strong> Device configuration and monitoring via ExtremeCloud IQ through professional work exposure.</li>
     <li><strong>Wireshark:</strong> Captured and analyzed network traffic to troubleshoot latency, DNS, and TCP/IP issues in lab exercises.</li>
-    <li><strong>Cisco:</strong> Networking fundamentals, VLAN setup, switch and router configuration, switch trunking, VPN, Cisco Phone Set via Packet Tracer, lab simulations, and work experience.</li>
+    <li><strong>Cisco:</strong> Networking fundamentals, VLAN setup, switch and router configuration, switch trunking, VPN, Cisco Phone Set via packet tracer, lab simulations, and work experience.</li>
   </ul>
 </section>
 
