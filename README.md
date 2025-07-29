@@ -21,94 +21,72 @@ Dedicated and results-driven IT professional with hands-on experience in hardwar
 | Security Labs & Journals    | [Security Labs & Journals ](https://github.com/ArikXEspinosa/Security-Labs-Journals/blob/main/README.md) |
 
 
-## Tools & Technologies 
-- Programming & Scripting Language Python/Powershell/Linux/C#/VisualBasic
+## Tools & Technologies
 
-- Networking (Cisco Packet Tracer & Real-World)
-Router & Switch Configuration (static routing, dynamic routing protocols)
+### Programming & Scripting Languages
+- Python, PowerShell, Linux Shell, C#, Visual Basic
 
--VLAN Design and Implementation
+### Networking
+- Cisco Packet Tracer & Real-World Router and Switch Configuration (Static & Dynamic Routing Protocols)
+- VLAN Design and Implementation
+- Router-on-a-Stick (Inter-VLAN Routing)
+- Network Address Translation (NAT)
+- DHCP and DNS Configuration
+- Network Troubleshooting and Packet Analysis (Wireshark basics)
 
--Router-on-a-Stick (Inter-VLAN Routing)
+### Security Tools & Concepts
+- Firewall and Port Management (Linux)
+- Honeypot Deployment & Port Scanning
+- Brute Force Attack Simulation (Hydra)
+- Security Best Practices for Network Hardening
 
--Network Address Translation (NAT)
+### Security Labs & Journals
+- Documented HackThisSite challenges and solutions to build practical cybersecurity skills  
+- Includes step-by-step walkthroughs, lessons learned, and screenshots  
+- Topics covered: Web hacking, basic penetration testing, cryptography, and more
 
--DHCP and DNS Configuration
+### Cybersecurity Awareness Training
+- Created and delivered training slides covering key cybersecurity topics:  
+  - Phishing Awareness and Prevention  
+  - Password Management Best Practices  
+  - Social Engineering Tactics  
+  - Safe Web Browsing Habits  
+  - Network Security Basics  
+  - Incident Reporting Procedures
 
-Network Troubleshooting and Packet Analysis (Wireshark basics)
+### IT Support & Infrastructure
+- System Troubleshooting (hardware & software)  
+- Physical Network Cable Management and Documentation  
+- Web Redesign & Technical Documentation
 
+---
 
-- Securtiy Tools & Concepts
+## Network Relevant Training
 
--Firewall & Port Management (Linux)
+- **Palo Alto Networks:** Hands-on labs and virtual firewall configuration through academic coursework.  
+- **Extreme Networks:** Device configuration and monitoring via ExtremeCloud IQ through professional work exposure.  
+- **Wireshark:** Captured and analyzed network traffic to troubleshoot latency, DNS, and TCP/IP issues in lab exercises.  
+- **Cisco Networking Fundamentals:** VLAN setup, switch and router configuration, switch trunking, VPN, Cisco Phone Set via Packet Tracer, lab simulations, and work experience.  
+- **Windows Deployment Services:** Experience deploying and managing Windows images for network-based OS installation in lab and work environments.
 
--Honeypot Deployment & Port Scanning
-
--Brute Force Attack Simulation (Hydra)
-
--Security Best Practices for Network Hardening
-
-
-- Security Labs & Journals
-Documented HackThisSite challenges and solutions to build practical cybersecurity skills
-
-Includes step-by-step walkthroughs, lessons learned, and screenshots
-
-Topics covered: Web hacking, basic penetration testing, cryptography, and more
-
-
-- Cybersecurity Awareness Training
-Created and delivered training slides covering key cybersecurity topics:
-
--Phishing Awareness and Prevention
-
--Password Management Best Practices
-
--Social Engineering Tactics
-
--Safe Web Browsing Habits
-
--Network Security Basics
-
--Incident Reporting Procedures
-
-
-- IT Support & Infrastructure
--System Troubleshooting (hardware & software)
-
--Physical Network Cable Management and Documentation
-
--Web Redesign & Technical Documentation
-
-
-  <h2> Network Relevant Training</h2>
- <ul>
-    <li><strong>Palo Alto Networks:</strong> Hands-on labs and virtual firewall configuration through academic coursework.</li>
-    <li><strong>Extreme Networks:</strong> Device configuration and monitoring via ExtremeCloud IQ through professional work exposure.</li>
-    <li><strong>Wireshark:</strong> Captured and analyzed network traffic to troubleshoot latency, DNS, and TCP/IP issues in lab exercises.</li>
-    <li><strong>Cisco Networking fundamentals:</strong> , VLAN setup, switch and router configuration, switch trunking, VPN, Cisco Phone Set via packet tracer, lab simulations, and work experience.</li>
-   <li><strong>Windows Deployment Services:</strong> Experience deploying and managing Windows images for network-based OS installation in lab and work environments.</li>
-  </ul>
-</section>
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/-Palo_Alto_Networks-ED1C24?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto Networks"/>
-  <img src="https://img.shields.io/badge/-Extreme_Networks-632CA6?&style=for-the-badge&logo=extremenetworks&logoColor=white" alt="Extreme Networks"/>
-  <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-  <img src="https://img.shields.io/badge/-Windows_Deployment_Services-0078D7?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows Deployment Services"/>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/-Palo_Alto_Networks-ED1C24?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto Networks" />
+  <img src="https://img.shields.io/badge/-Extreme_Networks-632CA6?&style=for-the-badge&logo=extremenetworks&logoColor=white" alt="Extreme Networks" />
+  <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/-Windows_Deployment_Services-0078D7?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows Deployment Services" />
 </div>
 
+---
 
+## SIEM Relevant Training
 
-### SIEM  Relevant Training
-<div>
-   <li><strong>Microsoft Sentinel:</strong> Familiar with core functionality, including installation and uninstallation processes.</li>
-  <li><strong>Splunk:</strong> Indexed security logs, built dashboards, and created alerts for abnormal behavior using search queries and data visualization.</li>
-</ul>
-    <div style="display: flex; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Sentinel" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+- **Microsoft Sentinel:** Familiar with core functionality, including installation and uninstallation processes.  
+- **Splunk:** Indexed security logs, built dashboards, and created alerts for abnormal behavior using search queries and data visualization.
+
+<div style="display: flex; gap: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Sentinel" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
 </div>
 
 ## Certifications  
