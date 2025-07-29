@@ -82,29 +82,31 @@ Created and delivered training slides covering key cybersecurity topics:
 
 
   <h2> Network Relevant Training</h2>
-  <ul>
+ <ul>
     <li><strong>Palo Alto Networks:</strong> Hands-on labs and virtual firewall configuration through academic coursework.</li>
     <li><strong>Extreme Networks:</strong> Device configuration and monitoring via ExtremeCloud IQ through professional work exposure.</li>
-   <li><strong>Wireshark:</strong> Captured and analyzed network traffic to troubleshoot latency, DNS, and TCP/IP issues in lab exercises.</li>
-  <li><strong>Cisco:</strong> Networking fundamentals, VLAN setup, switch and router configuration, switch trunking, VPN, Cisco Phone Set  via Packet Tracer, lab simulations and work experience.</li>
+    <li><strong>Wireshark:</strong> Captured and analyzed network traffic to troubleshoot latency, DNS, and TCP/IP issues in lab exercises.</li>
+    <li><strong>Cisco:</strong> Networking fundamentals, VLAN setup, switch and router configuration, switch trunking, VPN, Cisco Phone Set via Packet Tracer, lab simulations, and work experience.</li>
+  </ul>
 </section>
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Palo_Alto_Networks-ED1C24?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto Networks" />
-  <img src="https://img.shields.io/badge/-Extreme_Networks-632CA6?&style=for-the-badge&logo=extremenetworks&logoColor=white" alt="Extreme Networks" />
-    <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/-Palo_Alto_Networks-ED1C24?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto Networks"/>
+  <img src="https://img.shields.io/badge/-Extreme_Networks-632CA6?&style=for-the-badge&logo=extremenetworks&logoColor=white" alt="Extreme Networks"/>
+  <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 </div>
 
 
 
 ### SIEM  Relevant Training
 <div>
-<li><strong>Microsoft Sentinel:</strong> Familiar with core functionality, including installation and uninstallation processes, as introduced in lab-based security operations training.</li>
-<li><strong>Splunk:</strong> Indexed security logs, built dashboards, and created alerts for abnormal behavior using search queries and data visualization.</li>
+   <li><strong>Microsoft Sentinel:</strong> Familiar with core functionality, including installation and uninstallation processes.</li>
+  <li><strong>Splunk:</strong> Indexed security logs, built dashboards, and created alerts for abnormal behavior using search queries and data visualization.</li>
 </ul>
-<div style="display: flex; gap: 10px;">
-<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Sentinel" />
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+    <div style="display: flex; gap: 10px;">
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Sentinel" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
 </div>
 
 ## Certifications  
