@@ -87,6 +87,7 @@ Created and delivered training slides covering key cybersecurity topics:
     <li><strong>Extreme Networks:</strong> Device configuration and monitoring via ExtremeCloud IQ through professional work exposure.</li>
     <li><strong>Wireshark:</strong> Captured and analyzed network traffic to troubleshoot latency, DNS, and TCP/IP issues in lab exercises.</li>
     <li><strong>Cisco:</strong> Networking fundamentals, VLAN setup, switch and router configuration, switch trunking, VPN, Cisco Phone Set via packet tracer, lab simulations, and work experience.</li>
+   <li><strong>Windows Deployment Services:</strong> Experience deploying and managing Windows images for network-based OS installation in lab and work environments.</li>
   </ul>
 </section>
 
@@ -95,6 +96,7 @@ Created and delivered training slides covering key cybersecurity topics:
   <img src="https://img.shields.io/badge/-Palo_Alto_Networks-ED1C24?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto Networks"/>
   <img src="https://img.shields.io/badge/-Extreme_Networks-632CA6?&style=for-the-badge&logo=extremenetworks&logoColor=white" alt="Extreme Networks"/>
   <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/-Windows_Deployment_Services-0078D7?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows Deployment Services"/>
 </div>
 
 
