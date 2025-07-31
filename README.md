@@ -1,8 +1,6 @@
 # Hello, I'm Arik X. Espinosa  
-<a href="https://www.linkedin.com/in/arik-espinosa-7b242a172" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-</a> [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](Resume%20(3).pdf)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arik-espinosa-7b242a172)
+![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge)
 ## About Me  
 I am a skilled IT professional with hands-on experience in computer repair, network setup, and cybersecurity. As a U.S. Army Veteran, I bring a strong work ethic, problem-solving skills, and the ability to stay calm under pressure. I enjoy learning new technology and helping keep systems safe and running smoothly.
 
