@@ -99,16 +99,9 @@ Dedicated and results-driven IT professional with hands-on experience in hardwar
 <section id="training">  <img src="https://img.shields.io/badge/-Active_Directory-2867B2?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
   <div>
 
+## Testimonials & Recommendations
 
-| **Past Projects**             | **Repository Link**                                                                                   |
-|-----------------------------|--------------------------------------------------------------------------------------------------------|
-| Web Infrastucture    | [Web Redesign Project](https://github.com/ArikXEspinosa/Web-Redesign-Project) |
-| Honeypot & Security    | [Honeypot Project](https://github.com/ArikXEspinosa/ArikXEspinosa-HoneyPot-Project)    |
-| Physical Network Setup   | [Cable Management Project](https://github.com/ArikXEspinosa/Network-Cable-Management-Project) |
-| Network Simlaution & Setup       | [Networking Projects](https://github.com/ArikXEspinosa/Networking-Projects/blob/main/README.md) |
-| Cybersercuity Awareness Training Slides      | [Cybersercurity Awareness Training Slides](https://github.com/ArikXEspinosa/Cybersecurity-Training-Slides/blob/main/README.md) |
-| Security Labs & Journals    | [Security Labs & Journals ](https://github.com/ArikXEspinosa/Security-Labs-Journals/blob/main/README.md) |
-
+[Testimonials & Recommendations from Clients, Supervisors, & Peers](https://github.com/ArikXEspinosa/Testimonials-Recommendations/blob/main/README.md)
 
 
 
